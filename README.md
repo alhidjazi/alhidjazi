@@ -9,9 +9,8 @@
 
 ### 🚀 About Me
 
-- 🌱 Currently learning **TypeScript, Angular, React, and modern web technologies**  
-- 🤝 Open to collaborate on **Full Stack projects**  
-- 💬 Skills: **C#, ASP.NET, JavaScript, jQuery, Angular, Node.js**  
+I'm a passionate and driven Computer Engineer with a strong foundation in software development and a keen interest in backend systems. My goal is to become one of the world's most exceptional backend developers, creating scalable, efficient, and robust solutions that power the digital world. With a solid understanding of programming languages, databases, and system architecture, I thrive on solving complex problems and optimizing performance. I'm committed to continuous learning, innovation, and delivering high-quality code that drives impactful results. Let’s build the future, one line of code at a time!
+
 - 📫 Contact: **[abokhalidalhidjazi@yahoo.com](mailto:abokhalidalhidjazi@yahoo.com)**  
 
 ---
